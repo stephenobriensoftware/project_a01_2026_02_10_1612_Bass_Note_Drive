@@ -16,6 +16,16 @@ bass_pkg
 
 ________
 
+move 
+
+recordings folder 
+
+into 
+
+bass_pkg/data
+
+________
+
 
 File Explorer → Downloads
 
