@@ -8,17 +8,19 @@ ________
 
 then go inside and 
 
-unzip
+unzip:
 
-both recordings and
+recordings
 
 bass_pkg
+
+raw_calibration
 
 ________
 
 move 
 
-recordings folder 
+raw_calibration and recordings folder 
 
 into 
 
