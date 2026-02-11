@@ -42,4 +42,14 @@ __________
 
 Click Detect
 
+Untick "Use exe"
+
 Click Detect button below first detect button
+
+Play Bass note (loud)
+
+E string fret 05 (A Note)
+
+_______
+
+It should detect correctly that it was e05a ( E string fret 05 A note)
