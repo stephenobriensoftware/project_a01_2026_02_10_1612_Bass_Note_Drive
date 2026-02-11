@@ -14,13 +14,13 @@ recordings
 
 bass_pkg
 
-raw_calibration
+raw
 
 ________
 
 move 
 
-raw_calibration and recordings folder 
+raw and recordings folder 
 
 into 
 
